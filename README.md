@@ -43,6 +43,8 @@ Contato
 
 Email: contato@orbitek.com.br
 
-Localização: Santo André - SP, Brasil
+Localização:SP, Brasil
+
+Instagram: Orbitek.obk
 
 Orbitek - Conectando inovação, tecnologia e resultados.
