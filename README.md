@@ -1,6 +1,7 @@
-Orbitek - Inovação que Transforma Negócios
+                                                              Orbitek - Inovação que Transforma Negócios
+
 Na Orbitek, transformamos ideias em soluções digitais de alto impacto. Somos apaixonados por tecnologia e inovação, e acreditamos que cada projeto é uma oportunidade única de gerar valor real para nossos clientes.
-Trabalhamos lado a lado com empresas e organizações para desenvolver softwares e sistemas personalizados, desde a concepção da ideia até a entrega final — sempre com foco em qualidade, agilidade e resultados.
+Trabalhamos lado a lado com empresas e organizações para desenvolver softwares e sistemas personalizados, desde a concepção da ideia até a entrega final, sempre com foco em qualidade, agilidade e resultados.
 
 <img width="628" height="628" alt="Flaco Lopez" src="https://github.com/user-attachments/assets/9d5386aa-8af9-4af5-a4bb-4d92e3874f71" />
 
