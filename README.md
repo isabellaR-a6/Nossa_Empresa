@@ -41,13 +41,6 @@ Tamanhos: Small 14px • Parágrafo 16px • H5 18px • H4 24px • H3 28px •
 Contato
 
 Email: contato@orbitek.com.br
-Instagram: @orbitek.obk
-Localização: Santo André - SP, Brasil
-Orbitek - Conectando inovação, tecnologia e resultados
-
-Email: contato@orbitek.com.br
-
-Website: www.orbitek.com.br
 
 Localização: Santo André - SP, Brasil
 
